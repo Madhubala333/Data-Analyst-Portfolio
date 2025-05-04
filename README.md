@@ -63,7 +63,7 @@ Sep 2012 -Aug 2016
 
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/madhubala-2052/EEA2964C410FAD1B?sharingId=AD1BFAB28DF34E7A) (March 2023)
 
-- [CompTIA Security+](-)
+- [CompTIA Security+](-) (Jan 2024)
 
 ## Contacts
 - LinkedIn: [@Madhubala Malayadri](https://www.linkedin.com/in/madhubala-malayadri/)
