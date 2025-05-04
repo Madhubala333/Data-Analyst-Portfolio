@@ -94,7 +94,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Colorado, Boulder: 
+Audencia Business School
 Master of Science - MS, Data Science,
 Dec 2022 - Dec 2024
 
