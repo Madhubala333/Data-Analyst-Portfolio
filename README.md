@@ -1,8 +1,10 @@
 # Madhuabla Malayadri - Data Analyst Portfolio
 ## About
 I am a Data Analyst with a background in Engineering Management. My curiosity about problem-solving and data-driven decision-making led me to the field of data analytics, where I’ve found a deep passion for uncovering insights from data.
+
 I’ve always been fascinated by numbers and patterns, and data analytics has become a natural fit for my skills. My career in engineering management has equipped me with strong analytical, problem-solving, and project management skills. I have learned to think strategically and use data to drive informed decisions.
 With a Master’s degree in Engineering Management, I’ve developed solid experience in managing complex systems, analyzing data, and optimizing processes. These experiences have sharpened my ability to identify trends, detect patterns, and extract meaningful insights. I am excited to bring these skills into my work as a Data Analyst.
+
 In my free time, I explore new data analysis tools and techniques, always looking for opportunities to enhance my skills. Whether working independently or collaboratively, I am driven by the excitement of discovering actionable insights and solving complex problems. I am confident in handling large datasets, deriving insights, and effectively communicating my findings to both technical and non-technical audiences through visualizations and dashboards.
 
 
