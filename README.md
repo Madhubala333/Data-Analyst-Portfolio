@@ -13,15 +13,15 @@ My CV in [pdf](-).
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/Madhubala333/Data-Analyst-Portfolio?tab=readme-ov-file)
+- [Portfolio Projects](https://github.com/Madhubala333/Data-Analyst-Portfolio?tab=readme-ov-file)
     - [Data Warehouse Project using SQL Server](https://github.com/Madhubala333/SQL-Data-Warehouse-Project)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/madhubala.malayadri/vizzes)
   - Power BI
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/Madhubala333/Data-Analyst-Portfolio?tab=readme-ov-file)  
+- [Certificates](https://github.com/Madhubala333/Data-Analyst-Portfolio/tree/main/Certifications)
+- [Contact](https://github.com/Madhubala333/Data-Analyst-Portfolio)
 ## Portfolio Projects
 
 ### Data Warehouse Project using SQL Server
@@ -63,7 +63,7 @@ Sep 2012 -Aug 2016
 
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/madhubala-2052/EEA2964C410FAD1B?sharingId=AD1BFAB28DF34E7A) (March 2023)
 
-- [CompTIA Security+](-) (Jan 2024)
+- [CompTIA Security+](https://github.com/Madhubala333/Data-Analyst-Portfolio/tree/main/Certifications) (Jan 2024)
 
 ## Contacts
 - LinkedIn: [@Madhubala Malayadri](https://www.linkedin.com/in/madhubala-malayadri/)
