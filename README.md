@@ -8,7 +8,7 @@ With a Master’s degree in Engineering Management, I’ve developed solid exper
 In my free time, I explore new data analysis tools and techniques, always looking for opportunities to enhance my skills. Whether working independently or collaboratively, I am driven by the excitement of discovering actionable insights and solving complex problems. I am confident in handling large datasets, deriving insights, and effectively communicating my findings to both technical and non-technical audiences through visualizations and dashboards.
 
 
-My CV in [pdf](-).
+My CV in [https://github.com/Madhubala333/Data-Analyst-Portfolio/blob/main/Resume/Madhuabala%20Malayadri%20Resume.pdf].
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
